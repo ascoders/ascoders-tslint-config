@@ -1,0 +1,19 @@
+{
+  "name": "ascoders-tslint-config",
+  "version": "1.0.0",
+  "description": "ascoders 的 tslint 规范",
+  "main": "tslint-config.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascoders/ascoders-tslint-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ascoders/ascoders-tslint-config/issues"
+  },
+  "homepage": "https://github.com/ascoders/ascoders-tslint-config#readme"
+}
