@@ -1,8 +1,8 @@
 {
   "name": "ascoders-tslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ascoders 的 tslint 规范",
-  "main": "tslint-config.json",
+  "main": "tslint.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
