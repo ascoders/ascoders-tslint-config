@@ -1,6 +1,6 @@
 {
   "name": "ascoders-tslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ascoders 的 tslint 规范",
   "main": "tslint.json",
   "scripts": {
